@@ -5,22 +5,31 @@ To write a python program to implement multivariate linear regression and predic
 1.	Hardware – PCs
 2.	Anaconda – Python 3.7 Installation / Moodle-Code Runner
 ## Algorithm:
+
 ### Step1
+
 <br>
 Import required libraries
+
 ### Step2
 <br>
 Load the dataset
+
 ### Step3
 <br>
 Split the dataset and create the linear Regression model
+
 ### Step4
 <br>
 Train the model and Evaluate the model
+
 ### Step5
 <br>
 Visualise residual errors and Interpret results
+
 ## Program:
+
+
 ```
 import matplotlib.pyplot as plt
 import numpy as np
@@ -76,6 +85,7 @@ plt.show()
 
 ```
 ## Output:
+
 <img width="1038" height="805" alt="Screenshot 2025-10-21 151812" src="https://github.com/user-attachments/assets/403753d9-4577-4a70-b2a4-3fbf81f768ea" />
 
 
